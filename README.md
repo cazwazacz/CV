@@ -43,7 +43,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 PROJECTS:
 
 Name | Description | Technologies
------------- | -------------
+------------ | ------------- | ------------
 [Simon Game](https://github.com/cazwazacz/Simon-Game/) | A recreation of the classic Simon Game | Javascript, Jquery
 [Camper Leaderboard](https://github.com/cazwazacz/camper-leaderboard) | A FreeCodeCamp leaderboard made using their API | React
 [Github-Flavoured Markdown Previewer](https://github.com/cazwazacz/github-markdown-previewer) | Shows a live preview when typing Github-flavoured markdown | React

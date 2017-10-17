@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2017 to January 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,11 +34,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### FreeCodeCamp
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Front-end Certificate
+- Experience using front-end techonlogies such as Javascript and React
+- Experience using back-end techonlogies such as Node.js and mongoDB
+
+PROJECTS:
+
+Name | Description | Technologies
+------------ | -------------
+[Simon Game](https://github.com/cazwazacz/Simon-Game/) | A recreation of the classic Simon Game | Javascript, Jquery
+[Camper Leaderboard](https://github.com/cazwazacz/camper-leaderboard) | A FreeCodeCamp leaderboard made using their API | React
+[Github-Flavoured Markdown Previewer](https://github.com/cazwazacz/github-markdown-previewer) | Shows a live preview when typing Github-flavoured markdown | React
+[Recipe Box](https://github.com/cazwazacz/recipe-box) | A recipe app that uses Javascript's localStorage api for data persistence | React
+[URL Shortener](https://github.com/cazwazacz/url-shortener/) | Uses a database to create references for links | Node.js, mongoDB
+
+#### Heriot-Watt University (September 2013 to May 2017)
+
+- Psychology (Forensic Science) BSc
+- 2:1
 
 #### Any other qualifications
 

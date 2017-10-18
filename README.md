@@ -37,8 +37,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### FreeCodeCamp
 
 - Front-end Certificate
-- Experience using front-end techonlogies such as Javascript and React
-- Experience using back-end techonlogies such as Node.js and mongoDB
+- Experience using front-end technologies such as Javascript and React
+- Experience using back-end technologies such as Node.js and mongoDB
 
 PROJECTS:
 

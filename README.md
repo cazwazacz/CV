@@ -2,9 +2,7 @@
 
 ## Allan Wazacz
 
-
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+As a musician, I find that there is a great overlap in what inspires me to do music and code. In both pursuits, one has tools and the free reign to create meaningful things that connect with people. Both also follow satisfyingly logical patterns. Programming allows me to challenge myself both logically - when coming up with a solution to a problem - and creatively - when figuring out an elegant solution to said problem. After discovering the immense satisfaction I could achieve from solving a problem with code, and the fact that this satisfaction could not be matched in any other way, I decided that this was the life for me. I am looking for a junior developer position where I am challenged constantly to better myself and where I am working with people who I can learn from. 
 
 ## Skills
 

@@ -2,7 +2,7 @@
 
 ## Allan Wazacz
 
-As a musician, I find that there is a great overlap in what inspires me to do music and code. In both pursuits, one has tools and the free reign to create meaningful things that connect with people. Both also follow satisfyingly logical patterns. Programming allows me to challenge myself both logically - when coming up with a solution to a problem - and creatively - when figuring out an elegant solution to said problem. After discovering the immense satisfaction I could achieve from solving a problem with code, and the fact that this satisfaction could not be matched in any other way, I decided that this was the life for me. I am looking for a junior developer position where I am challenged constantly to better myself and where I am working with people who I can learn from. 
+As a musician, I find that there is a great overlap in what inspires me to do music and code. In both pursuits, one has tools and the free reign to create meaningful things that connect with people. Both also follow satisfyingly logical patterns. Programming allows me to challenge myself both logically - when coming up with a solution to a problem - and creatively - when figuring out an elegant solution to said problem. After discovering the immense satisfaction I could achieve from solving a problem with code, and the fact that this satisfaction could not be matched in any other way, I decided that this was the life for me. I am looking for a junior developer position where I am challenged constantly to better myself and where I am working with people who I can learn from.
 
 ## Skills
 
@@ -65,3 +65,10 @@ Name | Description | Technologies
 *Your job title*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
+
+## Interests
+
+ - Film
+ - Comedy
+ - Music (I have released a few EPs and also made the music for an iOS and Android game!)
+ - Cooking

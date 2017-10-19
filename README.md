@@ -57,15 +57,6 @@ Name | Description | Technologies
 - Psychology (Forensic Science) BSc
 - 2:1
 
-#### Any other qualifications
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
-
 ## Interests
 
  - Film

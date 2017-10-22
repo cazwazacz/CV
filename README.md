@@ -1,6 +1,6 @@
 #### *In progess...*
 
-[Skills]("#skills") | [Education]("#education") | [Experience]("#experience") | [Interests]("#interests")
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 ## Allan Wazacz
 

@@ -29,14 +29,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (October 2017 to January 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Concepts: Object-oriented programming, Test-driven development, Model-view-controller architecture
+- Tech Stack: Ruby, Rails, JavaScript, Node.js, React.js, jQuery, HTML, css, MongoDB, postgreSQL
+- Testing: RSpec, Jasmine, Supertest, Mocha, Chai, Capybara, Selenium, Zombie.js, Sinon
 
 #### FreeCodeCamp
 

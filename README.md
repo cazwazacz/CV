@@ -8,22 +8,13 @@ Coming from a background in music, I find that there is a great overlap in what 
 
 ## <a name="skills">Skills</a>
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+People often come to me for help in code because I am good at breaking down concepts without being patronising which people tend to find helpful when I am explaining a pattern or debugging some code. I don’t take myself too seriously, but I can adapt quite well which has resulted in positive results when pair programming. I think people feel calm when I am coding with them because I don’t get outwardly frustrated and keep tensions low. This also works to my benefit when working in teams because I try to ensure that all members have a say in the direction that the project is taking to allow everyones needs to be met.
 
-- Experience
-- Achievements
-- Evidence
+#### Self-learning
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I am effective at rapidly picking up new technologies. This is fueled by my thirst for building new things using new-found knowledge. I started developing this skill before attending Makers Academy, but it was after attending that I really honed it. I am good at choosing specific materials to learn from, for example, I would rather read through some official documentation and pinpoint exactly the information I need as opposed to watching some tutorials which could have a lot of redundant information. An example of this in the Database Visualisation project, where on day one I got our project working with unfamiliar technologies just by reading documentation. 
 
 ## <a name="education">Education</a>
 

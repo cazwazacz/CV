@@ -33,13 +33,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Tech Stack: Ruby, Rails, JavaScript, Node.js, React.js, jQuery, HTML, css, MongoDB, postgreSQL
 - Testing: RSpec, Jasmine, Supertest, Mocha, Chai, Capybara, Selenium, Zombie.js, Sinon
 
+## PROJECTS:
+
+| Project | Description | Technologies |
+| --- | --- | --- |
+| [QuizLife!](https://github.com/cazwazacz/pub-quiz-app) | An app where you can play quizzes using websockets | Javascript, React.js, Mocha, Chai, Zombie.js, Sinon, Enzyme |
+| [QuizLife! API](https://github.com/cazwazacz/pub-quiz-api) | The API back-end for the QuizLife! app | Javascript, Node.js, ws, express, Mocha, Chai, Sinon, Supertest, Mongoose, MongoDB |
+| [Data Visualization](https://github.com/cazwazacz/Database-visualization) | An app which enables you do to visualise the data in a database | Javascript, Node.js, express, Mocha, Chai, supertest, selenium, jQuery, chart.js |
+
 #### FreeCodeCamp
 
 - Front-end Certificate
 - Experience using front-end technologies such as Javascript and React
 - Experience using back-end technologies such as Node.js and mongoDB
 
-PROJECTS:
+## PROJECTS:
 
 Name | Description | Technologies
 ------------ | ------------- | ------------

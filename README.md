@@ -33,7 +33,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Tech Stack: Ruby, Rails, JavaScript, Node.js, React.js, jQuery, HTML, css, MongoDB, postgreSQL
 - Testing: RSpec, Jasmine, Supertest, Mocha, Chai, Capybara, Selenium, Zombie.js, Sinon
 
-## PROJECTS:
+##### PROJECTS:
 
 | Project | Description | Technologies |
 | --- | --- | --- |
@@ -47,7 +47,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Experience using front-end technologies such as Javascript and React
 - Experience using back-end technologies such as Node.js and mongoDB
 
-## PROJECTS:
+##### PROJECTS:
 
 Name | Description | Technologies
 ------------ | ------------- | ------------

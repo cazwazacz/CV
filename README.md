@@ -1,4 +1,4 @@
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/allan-wazacz-88a780139/)
 
 ## Allan Wazacz
 

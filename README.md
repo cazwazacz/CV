@@ -29,6 +29,7 @@ I am effective at rapidly picking up new technologies. This is fueled by my thir
 | [QuizLife!](https://github.com/cazwazacz/pub-quiz-app) | An app where you can play quizzes using websockets | Javascript, React.js, Mocha, Chai, Zombie.js, Sinon, Enzyme |
 | [QuizLife! API](https://github.com/cazwazacz/pub-quiz-api) | The API back-end for the QuizLife! app | Javascript, Node.js, ws, express, Mocha, Chai, Sinon, Supertest, Mongoose, MongoDB |
 | [Data Visualization](https://github.com/cazwazacz/Database-visualization) | An app which enables you do to visualise the data in a database | Javascript, Node.js, express, Mocha, Chai, supertest, selenium, jQuery, chart.js |
+| [Chitter](https://github.com/cazwazacz/chitter-challenge) | A twitter clone built in a weekend using Ruby | Ruby, ERB, Rspec, Capybara, DataMapper, Postgres, Sinatra |
 
 #### FreeCodeCamp
 

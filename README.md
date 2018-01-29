@@ -2,7 +2,7 @@
 
 ## Allan Wazacz
 
-I am a javascript and ruby developer looking for a role where I am challenged constantly to better myself and where I am working with people who I can learn from. Coming from a background in music, I find that there is a great overlap in what inspires me to do music and code. In both pursuits, one has tools and the free reign to create meaningful things that connect with people. Both also follow satisfyingly logical patterns. Programming allows me to challenge myself both logically - when coming up with a solution to a problem - and creatively - when figuring out an elegant solution to said problem. After discovering the immense satisfaction I could achieve from solving a problem with code, and the fact that this satisfaction could not be matched in any other way, I decided that this was the life for me.
+I am a developer looking for a role where I am challenged constantly to better myself and where I am working with people who I can learn from. Coming from a background in music, I find that there is a great overlap in what inspires me to do music and code. In both pursuits, one has tools and the free reign to create meaningful things that connect with people. Both also follow satisfyingly logical patterns. Programming allows me to challenge myself both logically - when coming up with a solution to a problem - and creatively - when figuring out an elegant solution to said problem. After discovering the immense satisfaction I could achieve from solving a problem with code, and the fact that this satisfaction could not be matched in any other way, I decided that this was the life for me.
 
 ## <a name="skills">Skills</a>
 
